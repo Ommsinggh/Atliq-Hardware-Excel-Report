@@ -33,6 +33,19 @@ This lack of visibility made it difficult to identify which customers and market
 2. The use of conditional formatting on the cells makes it easy to identify which customers and markets are doing well and which are not.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  For better understanding, you can download the [Excel file](https://github.com/Ommsinggh/Atliq-Hardware-Excel-Report/blob/5672a5b2c04cc3fa9b6086887c5773065a312cf2/AtliQ%20Hardware%20Business%20Report%20Dashboard.xlsx)
+
+ **Technical skills learned** 
+ 
+1. **Data Analysis**: Enhancing skills in analyzing large datasets and extracting insights to drive decision-making.
+ 
+2. **Excel Formulas and Functions**: Proficiency in using a variety of Excel formulas and functions like SUM, AVERAGE, VLOOKUP, and IF statements for data manipulation and calculation.
+ 
+3. **Dashboard Creation**: Building expertise in designing and constructing interactive dashboards that provide a comprehensive overview of key metrics and performance indicators.
+ 
+4. **Data Cleansing and Manipulation**: Improving skills in cleaning, organizing, and transforming data to ensure accuracy and reliability for analysis and reporting purposes.
+
+5. **Conditional Formatting**: Because of conditional formatting visualization becomes easy
+
+ For better understanding, you can download the [Excel file](https://github.com/Ommsinggh/Atliq-Hardware-Excel-Report/blob/5672a5b2c04cc3fa9b6086887c5773065a312cf2/AtliQ%20Hardware%20Business%20Report%20Dashboard.xlsx)
 
  .
